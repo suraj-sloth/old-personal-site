@@ -1,0 +1,20 @@
+# Example Site settings
+
+#google_analytics: UA-NNNNNNNN-N
+
+header_pages:
+ - index.md
+ - about.md
+
+footer: 'follow Suraj on <a href="https://www.linkedin.com/in/suraj-sloth/">linkedin</a>'
+
+#style: light # dark (default) or light
+#listen_for_clients_preferred_style: true # true or false (default)
+theme: jekyll-theme-console
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+feed:
+  tags: true
