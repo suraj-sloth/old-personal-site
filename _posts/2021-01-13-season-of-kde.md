@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-10-20
+date: 2021-01-13
 tags: kde dev web
 title: Season of KDE 2021 - The start
 ---
