@@ -25,14 +25,18 @@ We had a KMyMoney kickoff virtual meet on 29th May. We got to know about each ot
 
 We walked through the proposed timeline and discussed what more things we will have to figure out while working on the project with some QnA.
 
+I also completed one pending merge request:
+- [Remove hide closed accounts option from configuration settings
+](https://invent.kde.org/office/kmymoney/-/merge_requests/68)
+
 I also met my fellow students working on different GSoC projects under various orgs. They were from versatile technology domains. We discussed various topics related to tech and non-tech.
 
 ## Coding Period:
 The coding period starts on 7th June. I am looking forward to a great summer ahead.
 
-If anyone has any suggestions please reach out to me on:
-Matrix: @suraj_sloth:kde.org
-e-mail : suraj.mahto49[at]gmail[dot]com
+If anyone has any suggestions please reach out to me on:   
+- Matrix: @suraj_sloth:kde.org
+- e-mail : suraj.mahto49[at]gmail[dot]com    
 I am also active in all the communication groups of KMyMoney i.e. IRC/matrix and telegram.
 <br>
 I will be majorly working on the project in a fork repo.
