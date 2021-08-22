@@ -28,10 +28,10 @@ I bet you may find some sloths wandering around Computers. He likes designing an
 ## His Linux Configuration?
 Uh, I see he is too lazy to rice his linux setup. For now he is stable in:
 <br>
-+ OpenSUSE ~~Kali Light~~
++ Arch ~~OpenSUSE~~ ~~Kali Light~~
 + KDE Plasma + i3-gaps Window Manager
 + i3blocks ~~+ polybar~~
-+ OpenSUSE KDE ~~Sweet Dark~~ Theme 
++ Breeze ~~OpenSUSE KDE~~ ~~Sweet Dark~~ Theme 
 
 <div id="contact"></div>
 
